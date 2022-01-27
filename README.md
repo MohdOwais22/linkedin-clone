@@ -1,6 +1,6 @@
 LinkedIn Clone with post feature made with react and firebase. Will add login functionality in Future(maybe).
 
-linkedin-clone-owais.netlify.app
+http://linkedin-clone-owais.netlify.app
 
 
 
